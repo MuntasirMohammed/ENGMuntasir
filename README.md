@@ -8,12 +8,12 @@
 - <b>Visualizing data Using AWS. (Quicksight, S3)</b>
   - [Data Visualization](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)  
 - <b>Static Portfolio Website Hosted on AWS. (Route 53)</b>
-  - [Portfolio Website](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Portfolio Website](http://engmuntasir.com/)
 
 
 <h2>📜 Certifications:</h2>
 
-- [AWS Solutions Architect Associate (SAA-C03)](https://github.com/joshmadakor1/Algorithms-Practice) 
+- [AWS Solutions Architect Associate (SAA-C03)](http://engmuntasir.com/) 
 
 
 <h2>📲 Connect:</h2>
