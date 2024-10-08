@@ -6,7 +6,7 @@
 - <b>Serverless Email Marketing Application. (Lambda, S3, SES)</b>
   - [Serverless Email Marketing](https://github.com/MuntasirMohammed/Serverless-Marketing)
 - <b>React Quiz App. (Amplify, Cognito)</b>
-  - [React Quiz App]((https://github.com/MuntasirMohammed/React-Quiz-App))  
+  - [React Quiz App](https://github.com/MuntasirMohammed/React-Quiz-App)  
 - <b>Static Portfolio Website Hosted on AWS. (Route 53)</b>
   - [Portfolio Website](http://engmuntasir.com/)
 
