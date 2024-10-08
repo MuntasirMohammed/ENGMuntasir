@@ -5,8 +5,8 @@
 
 - <b>Serverless Email Marketing Application. (Lambda, S3, SES)</b>
   - [Serverless Email Marketing](https://github.com/MuntasirMohammed/Serverless-Marketing)
-- <b>Visualizing data Using AWS. (Quicksight, S3)</b>
-  - [Data Visualization](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)  
+- <b>React Quiz App. (Amplify, Cognito)</b>
+  - [React Quiz App]((https://github.com/MuntasirMohammed/React-Quiz-App))  
 - <b>Static Portfolio Website Hosted on AWS. (Route 53)</b>
   - [Portfolio Website](http://engmuntasir.com/)
 
