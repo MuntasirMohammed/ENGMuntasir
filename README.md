@@ -5,7 +5,7 @@
 
 - <b>React Quiz App. (Amplify, Cognito)</b>
   - [React Quiz App](https://github.com/MuntasirMohammed/React-Quiz-App)
-- <b>RideEase - Serverless Ride Sharing App.(Amplify, Cognito, Lambda, DynamoDB)</b>
+- <b>RideEase - Serverless Ride Sharing App.(Amplify, Cognito, Lambda, DynamoDB, API Gateway)</b>
   - [RideEase](https://github.com/MuntasirMohammed/RideEase)
 - <b>Serverless Email Marketing Application. (Lambda, S3, SES)</b>
   - [Serverless Email Marketing](https://github.com/MuntasirMohammed/Serverless-Marketing)
