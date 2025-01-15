@@ -15,7 +15,7 @@
 
 <h2>📜 Certifications:</h2>
 
-- [AWS Certified Cloud Practitioner (CLF-CO2)](http://engmuntasir.com/) 
+- [AWS Certified Cloud Practitioner (CLF-CO2)](https://www.credly.com/badges/0b58b961-174e-4e1b-8fca-7e5d4cbfaae9/public_url) 
 
 
 <h2>📲 Connect with me:</h2>
