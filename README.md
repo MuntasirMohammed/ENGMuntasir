@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muntasir! <br/><a href="https://github.com/MuntasirMohammed">Programmer</a>, <a href="https://www.linkedin.com/in/muntasirmohammed/"> AWS Certified Solutions Architect </a>, <a> Web Designer </a></h1>
+<h1>Hi, I'm Muntasir! <br/><a href="https://github.com/MuntasirMohammed">Programmer</a>, <a href="https://www.linkedin.com/in/muntasirmohammed/"> AWS Solutions Architect </a>, <a> Full Stack Web Developer </a></h1>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -15,7 +15,7 @@
 
 <h2>📜 Certifications:</h2>
 
-- [AWS Solutions Architect Associate (SAA-C03)](http://engmuntasir.com/) 
+- [AWS Certified Cloud Practitioner (CLF-CO2)](http://engmuntasir.com/) 
 
 
 <h2>📲 Connect with me:</h2>
